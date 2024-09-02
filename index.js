@@ -5,3 +5,7 @@ const address =skdskkdsgit
 function sayName(){
   console.log(name)
 }
+
+function Above18(){
+  return 18
+}
