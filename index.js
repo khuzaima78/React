@@ -9,3 +9,8 @@ function sayName(){
 function Above18(){
   return 18
 }
+
+
+function NewFeature(){
+  console.log("This is the new feature")
+}
