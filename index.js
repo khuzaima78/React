@@ -9,3 +9,14 @@ function sayName(){
 function Above18(){
   return 18
 }
+
+
+
+function newCommit (){
+  console.log("This is the new commit of khuzaima")
+}
+
+
+function Newvim(){
+  console.log("This is the new file ")
+}
