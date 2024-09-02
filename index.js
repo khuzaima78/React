@@ -23,5 +23,5 @@ function Newvim(){
 
 
 function rebase (){
-  console.log("Rebase 2")
+  console.log("Rebase 3")
 }
