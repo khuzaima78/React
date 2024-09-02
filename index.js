@@ -20,3 +20,8 @@ function newCommit (){
 function Newvim(){
   console.log("This is the new file ")
 }
+
+
+function rebase (){
+  console.log("Rebase 2")
+}
