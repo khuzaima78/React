@@ -15,3 +15,8 @@ function Above18(){
 function newCommit (){
   console.log("This is the new commit of khuzaima")
 }
+
+
+function Newvim(){
+  console.log("This is the new file ")
+}
